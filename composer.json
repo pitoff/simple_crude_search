@@ -1,0 +1,15 @@
+{
+    "name": "pc/crudeapp",
+    "authors": [
+        {
+            "name": "pitoff",
+            "email": "peteroffodile@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
